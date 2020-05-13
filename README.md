@@ -9,3 +9,7 @@ METHODOLOGY :
 4. Extracting raw data from each webpage using Xpath of data elements.
 5. Cleaning of raw data using 're'.
 6. Writing the dataset to a '.json' file using 'json'.
+
+NOTE:
+1. yelpscrape.py : web-scraping code
+2. yelpdata2.json : created dataset
